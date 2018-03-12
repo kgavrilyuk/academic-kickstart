@@ -42,7 +42,7 @@ weight = 5
 
 # Biography
 
-Kirill Gavrilyuk is a Ph.D. candidate in Machine Learning and Computer Vision at the University of Amsterdam, QUVA Lab. He is mainly interested in video and action understanding.     
+Kirill Gavrilyuk is a Ph.D. candidate in Machine Learning and Computer Vision supervised by [Cees Snoek](http://www.ceessnoek.info/) at the University of Amsterdam, QUVA Lab. He is mainly interested in video and action understanding.     
 
 His main passions are sport and card games. He likes traveling, history and understanding new things.  
 
