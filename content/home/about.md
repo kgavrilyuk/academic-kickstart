@@ -2,7 +2,7 @@
 # About/Biography widget.
 widget = "about"
 active = true
-date = "2016-04-20T00:00:00"
+date = "2018-02-12T00:00:00"
 
 # Order that this section will appear in.
 weight = 5
@@ -11,30 +11,39 @@ weight = 5
 [interests]
   interests = [
     "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Deep Learning",
+    "Computer Vision",
+    "Action Recognition",
+    "Reinforcement Learning"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "Ph.D. candidate in Machine Learning and Computer Vision"
+  institution = "University of Amsterdam, QUVA Lab"
+  year = 2019
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "Specialist Degree in Applied Mathematics and Informatics"
+  institution = "Lomonosov Moscow State University"
+  year = 2013
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "Computer Science"
+  institution = "Yandex School of Data Analysis"
+  year = 2013
+
+[[education.courses]]
+  course = "Sport Industry Management"
+  institution = "RMA"
+  year = 2015
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Kirill Gavrilyuk is a Ph.D. candidate in Machine Learning and Computer Vision at the University of Amsterdam, QUVA Lab. He is mainly interested in video and action understanding.     
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+His main passions are sport and card games. He likes traveling, history and understanding new things.  
+
+You can find the full CV [here](/gavrilyuk_cv.pdf).
