@@ -24,7 +24,7 @@ publication_short = "*CVPR*"
 abstract = "This paper strives for pixel-level segmentation of actors and their actions in video content. Different from existing works, which all learn to segment from a fixed vocabulary of actor and action pairs, we infer the segmentation from a natural language input sentence. This allows to distinguish between fine-grained actors in the same super-category, identify actor and action instances, and segment pairs that are outside of the actor and action vocabulary. We propose a fully-convolutional model for pixel-level actor and action segmentation using an encoder-decoder architecture optimized for video. To show the potential of actor and action video segmentation from a sentence, we extend two popular actor and action datasets with more than 7,500 natural language descriptions. Experiments demonstrate the quality of the sentence-guided segmentations, the generalization ability of our model, and its advantage for traditional actor and action segmentation compared to the state-of-the-art."
 
 # Featured image thumbnail (optional)
-image_preview = "actor_action.jpg"
+image_preview = "actor_action.png"
 
 # Is this a selected publication? (true/false)
 selected = true
@@ -57,7 +57,7 @@ highlight = true
 
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
-image = "actor_action.jpg"
+image = "actor_action.png"
 caption = ""
 
 +++
