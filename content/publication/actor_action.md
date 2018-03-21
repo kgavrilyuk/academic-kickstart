@@ -35,19 +35,19 @@ selected = true
 # projects = [""]
 
 # Links (optional).
-url_pdf = "#"
+# url_pdf = "#"
 url_preprint = ""
-url_code = "#"
-url_dataset = "#"
+# url_code = "#"
+# url_dataset = "#"
 url_project = ""
-url_slides = "#"
+# url_slides = "#"
 url_video = ""
-url_poster = "#"
+# url_poster = "#"
 url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom = [{name = "Link", url = "https://www.sciencedirect.com/science/article/pii/S1077314217301741"}]
+url_custom = [{name = "arXiv", url = "https://arxiv.org/abs/1803.07485"}]
 
 # Does the content use math formatting?
 math = true
@@ -61,3 +61,6 @@ image = "actor_action.png"
 caption = ""
 
 +++
+
+## Code and Datasets
+The code and datasets will be available after CVPR 2018 conference.
