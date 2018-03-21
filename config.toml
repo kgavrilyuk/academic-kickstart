@@ -220,6 +220,11 @@ defaultContentLanguageInSubdir = false
     link = "mailto:kgavrilyuk@uva.nl"
 
   [[params.social]]
+    icon = "google-scholar"
+    icon_pack = "ai"
+    link = "//scholar.google.com/citations?user=xmz6BHAAAAAJ"
+
+  [[params.social]]
     icon = "github"
     icon_pack = "fa"
     link = "//github.com/kgavrilyuk"
