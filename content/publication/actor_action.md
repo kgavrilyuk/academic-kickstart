@@ -62,5 +62,30 @@ caption = ""
 
 +++
 
-## Code and Datasets
-The code and datasets will be available after CVPR 2018 conference.
+## Datasets
+### A2D Sentences
+We have extended [Actor and Action (A2D) Dataset](https://web.eecs.umich.edu/~jjcorso/r/a2d/) with additional description of every object is doing in the videos. We provide three files containing our annotation:
+
+1. [a2d_annotation.txt](/actor_action/a2d_annotation.txt) contains annotation in the format "video_id,instance_id,query" where:
+
+	* "video_id" - the original id of the video from the A2D dataset
+
+	* "instance_id" - the id of the object in the video that we have added to the original annotation
+
+	* "query" - the description of what object is doing throughout the whole video (see the paper for more details)
+
+2. [a2d_annotation_with_instances.zip](https://drive.google.com/file/d/14DNamenZsvZnb32NFBNkZCGene5D2oaE/view) - the original annotation from the A2D dataset in HDF5 with the field "instance" added. This field corresponds to "instance_id" field in the *a2d_annotation.txt* file. 
+
+3. [a2d_missed_videos.txt](/actor_action/a2d_missed_videos.txt) contains all the videos that were not annotated with descriptions and therefore were excluded from experiments in the paper. 
+
+### J-HMDB Sentences
+We have extended [J-HMDB Dataset](http://jhmdb.is.tue.mpg.de/) with additional description of every human is doing in the videos:
+
+1. [jhmdb_annotation.txt](/actor_action/jhmdb_annotation.txt) contains annotation in the format "video_id,query":
+
+	* "video_id" - the original id of the video from the J-HMDB dataset
+	
+	* "query" - the description of what human is doing throughout the whole video (see the paper for more details)
+
+## Code
+The code will be available after CVPR 2018 conference.
