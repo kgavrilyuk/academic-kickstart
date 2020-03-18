@@ -2,7 +2,7 @@
 # About/Biography widget.
 widget = "about"
 active = true
-date = "2018-03-10T00:00:00"
+date = "2020-03-17T00:00:00"
 
 # Order that this section will appear in.
 weight = 5
@@ -21,7 +21,7 @@ weight = 5
 [[education.courses]]
   course = "Ph.D. candidate in Machine Learning and Computer Vision"
   institution = "University of Amsterdam, QUVA Lab"
-  year = 2019
+  year = 2020
 
 [[education.courses]]
   course = "Specialist Degree in Applied Mathematics and Informatics"

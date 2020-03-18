@@ -35,7 +35,7 @@ selected = true
 # projects = [""]
 
 # Links (optional).
-# url_pdf = "#"
+url_pdf = "http://openaccess.thecvf.com/content_cvpr_2018/papers/Gavrilyuk_Actor_and_Action_CVPR_2018_paper.pdf"
 url_preprint = ""
 # url_code = "#"
 # url_dataset = "#"
@@ -87,5 +87,3 @@ We have extended [J-HMDB Dataset](http://jhmdb.is.tue.mpg.de/) with additional d
 	
 	* "query" - the description of what human is doing throughout the whole video (see the paper for more details)
 
-## Code
-The code will be available after CVPR 2018 conference.
